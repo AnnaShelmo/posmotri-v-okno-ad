@@ -18,4 +18,4 @@
 - Прелоадер для загрузки видео.
 - Обработка ошибок при отсутствии видео для выбранного города.
 
-https://github.com/AnnaShelmo/posmotri-v-okno-ad.git
+https://github.com/AnnaShelmo/posmotri-v-okno-ad
